@@ -14,7 +14,7 @@ if "cart" not in st.session_state:
     st.session_state.cart = {}
 
 # Реальные инвайт-ссылки на ваши Вайбер-группы продаж
-VIBER_VITRINA_URL = "https://viber.com"  # Ссылка на Рыбу
+VIBER_VITRINA_URL = "https://invite.viber.com/?g2=AQBcCxB%2F8pV4zUx3JWvMf6QQRq25uwHZzLzk0EJNK4B13PLoRsmD7z%2B%2F0u1Le9kB"  # Ссылка на Рыбу
 VIBER_SKLAD_URL = "https://invite.viber.com/?g2=AQBzfd3YM5GHQFHi%2BfK6Csdh%2FDBHkPRlZRqXWCo8McjyuDhZwwNr%2FBumSb9e56qT"    # Ссылка на Склад
 
 # ==============================================================================
