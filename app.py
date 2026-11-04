@@ -14,8 +14,8 @@ if "cart" not in st.session_state:
     st.session_state.cart = {}
 
 # Реальные инвайт-ссылки на ваши Вайбер-группы продаж
-VIBER_VITRINA_URL = "https://viber.click"  # Укажи ссылку на группу розницы
-VIBER_SKLAD_URL = "https://viber.click"    # Укажи ссылку на группу склада
+VIBER_VITRINA_URL = "https://viber.com"  # Ссылка на Рыбу
+VIBER_SKLAD_URL = "https://invite.viber.com/?g2=AQBzfd3YM5GHQFHi%2BfK6Csdh%2FDBHkPRlZRqXWCo8McjyuDhZwwNr%2FBumSb9e56qT"    # Ссылка на Склад
 
 # ==============================================================================
 # ПОДКЛЮЧЕНИЕ GOOGLE ТАБЛИЦЫ (Автоматизация ассортимента)
